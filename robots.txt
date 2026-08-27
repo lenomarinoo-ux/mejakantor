@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mejakantor.web.id/sitemap.xml
+Sitemap: https://www.mejakantor.web.id/sitemap.xml
