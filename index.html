@@ -25,6 +25,11 @@
   <meta name="twitter:description" content="Temukan meja kantor dan meja kerja kantor berkualitas dengan harga meja kantor terbaik. Solusi pengadaan B2B untuk Malang, Surabaya, Jakarta, Bali, dan Makassar.">
   <meta name="twitter:image" content="https://www.mejakantor.web.id/assets/img/hero-bg.jpg">
 
+  
+  <!-- Preload LCP Images -->
+  <link rel="preload" as="image" href="assets/img/paket/hero.webp" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/img/logo-transparent.png">
+
   <!-- Pagespeed Optimizations -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -69,9 +74,7 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -187,7 +190,7 @@
       <div class="header-main d-flex align-items-center justify-content-between">
         <a href="/" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
-          <img src="assets/img/logo-transparent.png" width="50" height="50" loading="lazy" alt="Logo" style="height: 50px; width: auto; transform: scale(1.8); transform-origin: left center; margin-right: 35px; margin-left: 10px;">
+          <img src="assets/img/logo-transparent.png" width="50" height="50" alt="Logo" style="height: 50px; width: auto; transform: scale(1.8); transform-origin: left center; margin-right: 35px; margin-left: 10px;">
           <h1 class="sitename">Vendor Meja Kantor<span style="color:var(--accent-color)">.</span></h1>
         </a>
 
@@ -227,10 +230,10 @@
       <div class="hero-glow glow-2"></div>
       <div class="hero-glow glow-3"></div>
 
-      <div class="container position-relative z-index-2" data-aos="fade-up" data-aos-delay="100">
+      <div class="container position-relative z-index-2">
         <div class="hero-block">
           <div class="row align-items-center g-5">
-            <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <div class="col-lg-6">
               <div class="hero-copy pe-lg-5">
                 <div class="top-badge d-inline-flex align-items-center mb-4 px-3 py-2 rounded-pill glass-pill">
                   <span class="pulse-dot"></span>
@@ -259,12 +262,12 @@
             </div>
 
             <!-- Visual Column -->
-            <div class="col-lg-6 mt-5 mt-lg-0" data-aos="zoom-out" data-aos-delay="200">
+            <div class="col-lg-6 mt-5 mt-lg-0">
               <div class="hero-visual-wrapper position-relative">
                 
                 <!-- Main Image -->
                 <div class="hero-img-container position-relative rounded-5 overflow-hidden shadow-2xl">
-                  <img src="assets/img/paket/hero.webp" width="800" height="600" loading="lazy"  alt="Suasana Meja Kantor" class="img-fluid w-100" style="object-fit: cover; aspect-ratio: 4/3; transform: scale(1.05); transition: 0.5s;">
+                  <img src="assets/img/paket/hero.webp" width="800" height="600" fetchpriority="high" alt="Suasana Meja Kantor" class="img-fluid w-100" style="object-fit: cover; aspect-ratio: 4/3; transform: scale(1.05); transition: 0.5s;">
                   <div class="glass-overlay position-absolute top-0 start-0 w-100 h-100" style="background: linear-gradient(to top, rgba(5,5,5,0.7) 0%, transparent 50%);"></div>
                 </div>
 
@@ -833,18 +836,17 @@
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
 
-  <!-- Preloader -->
-  <div id="preloader"></div>
+  <!-- Preloader Removed for Web Vitals -->
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script defer src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script defer src="assets/vendor/php-email-form/validate.js"></script>
+  <script defer src="assets/vendor/aos/aos.js"></script>
+  <script defer src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script defer src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
       
   <!-- Main JS File -->
-  <script src="assets/js/main.js?v=1786534351372"></script>
+  <script defer src="assets/js/main.js?v=1786534351372"></script>
 
 </body>
 
