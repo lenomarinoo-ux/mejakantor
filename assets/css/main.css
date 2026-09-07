@@ -11931,3 +11931,8 @@ html, body {
   transition: all 0.4s ease;
 }
 
+
+/* Accessibility contrast fixes */
+.stealth-footer .copyright { color: #ffffff !important; }
+.stealth-footer .legal-links a { color: #ffffff !important; }
+.stealth-footer .legal-links a:hover { text-decoration: underline; }
