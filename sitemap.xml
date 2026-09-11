@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.mejakantor.web.id/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.mejakantor.web.id/cara-menata-meja-staff-kantor-sempit.html</loc>
     <lastmod>2026-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -77,12 +83,6 @@
     <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mejakantor.web.id/</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.mejakantor.web.id/paket-eksekutif-detail.html</loc>
@@ -169,38 +169,20 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.mejakantor.web.id/daftar-harga-meja-direktur-minimalis-2026.html</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mejakantor.web.id/review-partisi-workstation-pws-06-6-staff.html</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mejakantor.web.id/cara-menata-meja-staff-kantor-sempit.html</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.mejakantor.web.id/harga-partisi-workstation-kantor-2026.html</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-03T11:00:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-  <loc>https://www.mejakantor.web.id/review-meja-staff-l-shape-mso-140l.html</loc>
-    <lastmod>2026-08-27</lastmod>
+    <loc>https://www.mejakantor.web.id/review-meja-staff-l-shape-mso-140l.html</loc>
+    <lastmod>2026-09-03T10:00:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-  <loc>https://www.mejakantor.web.id/ide-meja-rapat-minimalis-ruang-meeting-kreatif.html</loc>
-    <lastmod>2026-08-27</lastmod>
+    <loc>https://www.mejakantor.web.id/ide-meja-rapat-minimalis-ruang-meeting-kreatif.html</loc>
+    <lastmod>2026-09-03T08:00:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -240,7 +222,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-   <url>
+  <url>
     <loc>https://www.mejakantor.web.id/ide-layout-meja-staff-kantor-efisien.html</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,24 +277,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.mejakantor.web.id/ide-meja-rapat-minimalis-ruang-meeting-kreatif.html</loc>
-    <lastmod>2026-09-03T08:00:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mejakantor.web.id/review-meja-staff-l-shape-mso-140l.html</loc>
-    <lastmod>2026-09-03T10:00:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mejakantor.web.id/harga-partisi-workstation-kantor-2026.html</loc>
-    <lastmod>2026-09-03T11:00:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-   <url>
     <loc>https://www.mejakantor.web.id/ruang-rapat-minimalis.html</loc>
     <lastmod>2026-09-04T14:30:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -384,7 +348,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://www.mejakantor.web.id/meja-kerja-sofa-fleksibel.html</loc>
     <lastmod>2026-09-09T16:00:00+00:00</lastmod>
@@ -402,6 +365,7 @@
     <lastmod>2026-09-09T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://www.mejakantor.web.id/kegunaan-partisi-kantor.html</loc>
     <lastmod>2026-09-11T08:00:00+00:00</lastmod>
