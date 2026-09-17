@@ -466,5 +466,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
- 
+  <url>
+    <loc>https://mejakantor.web.id/spesifikasi-meja-kantor-aura-brilliant.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mejakantor.web.id/kelebihan-meja-kantor-aura-brilliant.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
